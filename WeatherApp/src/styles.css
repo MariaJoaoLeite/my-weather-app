@@ -1,0 +1,56 @@
+h1,
+h2,
+h3 {
+  font-family: "Quicksand", sans-serif;
+}
+
+h1 {
+  color: #6ab99f;
+  margin: 35px 0;
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 56px;
+  color: #2f3a66;
+  margin: 20px 0 5px 0;
+}
+
+h3 {
+  font-size: 44px;
+  color: #485380;
+}
+
+p.weather-description {
+  font-family: "Rajdhani", sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  color: #03506f;
+  margin: 5px 0 5px 0;
+}
+
+p.current-time {
+  font-family: "Rajdhani", sans-serif;
+  font-size: 25px;
+  color: #6ab99f;
+  margin: 0;
+}
+
+.border {
+  margin: 25px;
+  padding: 10px 25px 40px 25px;
+  background-color: #a2d0c19a;
+}
+
+.row {
+  text-align: center;
+  color: #383e56;
+  font-size: 20px;
+}
+
+.row i {
+  color: #0c756d;
+  font-size: 32px;
+  text-align: center;
+  margin: 0 auto;
+}
